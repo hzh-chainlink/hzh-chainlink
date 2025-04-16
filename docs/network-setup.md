@@ -10,14 +10,14 @@
 > 
 > ⚠️ **重要**: 解决这种网络限制是正常使用 Web3 各种服务的**大前提**！
 
-### 详细解决方案
+### 热心网友的解决方案
 
 <div align="center">
   <a href="https://www.notion.so/1d75aa5624e280329fecf683fc74fb6a?pvs=4" target="_blank">
     <img src="https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/2699-fe0f.svg" width="30" alt="Notion文档" style="vertical-align:middle">
     <span style="font-size:18px; font-weight:bold; margin-left:10px;">网络环境配置完整指南</span>
   </a>
-  <p><i>点击上方链接查看详细步骤</i></p>
+  <p><i>按住 Ctrl 键并点击上方链接即可阅读原文</i></p>
 </div>
 
 ---
