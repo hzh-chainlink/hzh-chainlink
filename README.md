@@ -20,7 +20,7 @@
 
 
 ## 课程资料
-- [课件](docs/slideshow-url.md)
+- [PPT 课件](docs/slideshow-url.md)
 - [思维导图](images/mindmap.png)
 - 合约代码
   - [V1](code/v1/contracts/) - 基础 ERC20 代币与简单计数器
