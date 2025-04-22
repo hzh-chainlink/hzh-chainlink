@@ -32,11 +32,13 @@
 <table border="0">
   <tr>
     <td width="50%">
-      <img src="images/preview-phone.png" alt="赛博上香 DApp 预览" width="300" />
+      <img src="images/preview-phone.png" alt="赛博上香 DApp 预览" width="450" />
     </td>
     <td valign="top">
       <b>📱 <a href="https://cyber-buddha-preview.vercel.app/">在线预览</a></b><br><br>
-      <b>💻 <a href="https://github.com/hzh-chainlink/cyber-buddha">完整代码</a></b>
+      <b>💻 <a href="https://github.com/hzh-chainlink/cyber-buddha">完整代码</a></b><br><br>
+      <b>🎁 领取全部打包资料</b><br>
+      <img src="images/wechat-QR.jpg" alt="微信二维码" width="300" />
     </td>
   </tr>
 </table>
