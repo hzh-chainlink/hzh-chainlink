@@ -1,6 +1,6 @@
 # 2025 Chainlink 训练营笔记
 
-🚀 **Chainlink 与 Solidity 训练营** 将在 **北京时间 2025年 4月21日 晚上 8 点** 开始！
+🚀 **Chainlink 与 Solidity 训练营** 将在 **北京时间 2025年 4月22日 晚上 8 点** 开始！
 
 📚 **课程安排速览：**
 
@@ -10,9 +10,16 @@
 
 🎯 无论你是想构建项目，还是想进入 Web3 找工作，这门课都将是**初学者的完美起点**！
 
-👉 **观看录播**：[Chainlink预言机
-](https://space.bilibili.com/482973600?spm_id_from=333.337.0.0)
+👉 **观看录播**：[Chainlink预言机](https://space.bilibili.com/482973600?spm_id_from=333.337.0.0)
 
+👀 **进入直播间**：[Chainlink B站 直播间](https://live.bilibili.com/21887553)
+
+<details>
+<summary>📺 嵌入播放器</summary>
+
+<iframe style="width: 700px;height: 400px;" src="https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=21887553&quality=0" frameborder="no" framespacing="0" scrolling="no" allow="autoplay; encrypted-media" allowfullscreen="true"></iframe>
+
+</details>
 
 ## 课程讲义
 
