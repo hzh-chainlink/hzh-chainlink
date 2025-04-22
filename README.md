@@ -22,10 +22,10 @@
 ## 课程资料
 - [课件](docs/slideshow-url.md)
 - [思维导图](images/mindmap.png)
-- [合约代码]
-  - [V1 - 基础代币与计数器合约](code/v1/contracts/) - 基础 ERC20 代币与简单计数器
-  - [V2 - 改进的访问控制与角色管理](code/v2/contracts/) - 使用 AccessControl 实现角色权限
-  - [V3 - 集成 Chainlink 预言机与资金功能](code/v3/contracts/) - 添加价格预言机和资金管理
+- 合约代码
+  - [V1](code/v1/contracts/) - 基础 ERC20 代币与简单计数器
+  - [V2](code/v2/contracts/) - 使用 AccessControl 实现角色权限
+  - [V3](code/v3/contracts/) - 添加价格预言机和资金管理
 
 ## 项目实战
 - [“赛博上香 DApp” 在线预览](https://cyber-buddha-preview.vercel.app/)
