@@ -12,14 +12,7 @@
 
 👉 **观看录播**：[Chainlink预言机](https://space.bilibili.com/482973600?spm_id_from=333.337.0.0)
 
-👀 **进入直播间**：[Chainlink B站 直播间](https://live.bilibili.com/21887553)
-
-<details>
-<summary>📺 嵌入播放器</summary>
-
-<iframe style="width: 700px;height: 400px;" src="https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=21887553&quality=0" frameborder="no" framespacing="0" scrolling="no" allow="autoplay; encrypted-media" allowfullscreen="true"></iframe>
-
-</details>
+🔴 **观看直播**：[Chainlink B站 直播间](https://live.bilibili.com/21887553)
 
 ## 课程讲义
 
