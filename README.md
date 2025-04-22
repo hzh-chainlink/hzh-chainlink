@@ -29,13 +29,17 @@
 
 ## 项目实战
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="images/preview-phone.png" alt="赛博上香 DApp 预览" width="300" style="margin-right: 20px;" />
-  <div>
-    <p>📱 <a href="https://cyber-buddha-preview.vercel.app/">在线预览</a></p>
-    <p>💻 <a href="https://github.com/hzh-chainlink/cyber-buddha">完整代码</a></p>
-  </div>
-</div>
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="images/preview-phone.png" alt="赛博上香 DApp 预览" width="300" />
+    </td>
+    <td valign="top">
+      <b>📱 <a href="https://cyber-buddha-preview.vercel.app/">在线预览</a></b><br><br>
+      <b>💻 <a href="https://github.com/hzh-chainlink/cyber-buddha">完整代码</a></b>
+    </td>
+  </tr>
+</table>
 
 ## 🌱 进阶学习
 
