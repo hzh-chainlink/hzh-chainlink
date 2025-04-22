@@ -36,7 +36,7 @@
     </td>
     <td valign="top">
       <b>📱 <a href="https://cyber-buddha-preview.vercel.app/">在线预览</a></b><br><br>
-      <b>💻 <a href="https://github.com/hzh-chainlink/cyber-buddha">完整代码</a></b><br><br>
+      <b>💻 <a href="https://github.com/hzh-chainlink/cyber-buddha">完整代码</a></b><br><br><br><br>
       <b>🎁 领取全部打包资料</b><br>
       <img src="images/wechat-QR.jpg" alt="微信二维码" width="300" />
     </td>
