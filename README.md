@@ -28,8 +28,14 @@
   - [V3](code/v3/contracts/) - 添加价格预言机和资金管理
 
 ## 项目实战
-- [“赛博上香 DApp” 在线预览](https://cyber-buddha-preview.vercel.app/)
-- [完整代码](https://github.com/hzh-chainlink/cyber-buddha)
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="images/preview-phone.png" alt="赛博上香 DApp 预览" width="300" style="margin-right: 20px;" />
+  <div>
+    <p>📱 <a href="https://cyber-buddha-preview.vercel.app/">在线预览</a></p>
+    <p>💻 <a href="https://github.com/hzh-chainlink/cyber-buddha">完整代码</a></p>
+  </div>
+</div>
 
 ## 🌱 进阶学习
 
