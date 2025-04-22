@@ -32,7 +32,7 @@
 <table border="0">
   <tr>
     <td width="50%">
-      <img src="images/preview-phone.png" alt="赛博上香 DApp 预览" width="450" />
+      <img src="images/preview-phone.png" alt="赛博上香 DApp 预览" width="300" />
     </td>
     <td valign="top">
       <b>📱 <a href="https://cyber-buddha-preview.vercel.app/">在线预览</a></b><br><br>
